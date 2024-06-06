@@ -12,6 +12,3 @@ This project is made for our team and we are learning Git / Github
 
 # More Details
 You can comment and feedback our project 
-
-
-    
