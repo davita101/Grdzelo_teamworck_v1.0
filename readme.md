@@ -32,6 +32,30 @@ You can comment and feedback our project
 
 • <b>touch new_file.html</b> -- make new files 
 
+git bash commands
+
 • <b>ls</b>-- shows all files or directories
 
-• <b>cd</b>-- secret info ...
+• <b>cd</b>-- we can access different directories
+
+• <b>touch</b>-- we can create files
+
+• <b>mkdir</b>-- we can create directories
+
+• <b>rm</b>-- we delete files
+
+• <b>rm -r </b>-- we can delete folders
+
+• <b>clear</b>-- we clean terminal
+
+prompt commands
+
+• <b>dir</b>-- we can show all directories / files
+
+• <b>type nul ></b>-- we can create files 
+
+git clone
+
+• <b>git clone </b>- we can create repo clone
+
+
